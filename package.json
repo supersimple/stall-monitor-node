@@ -1,0 +1,20 @@
+{
+  "name": "simpleServer",
+  "version": "1.0.0",
+  "description": "Simple Web Services Server",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.4",
+    "querystring": "^0.2.0",
+    "get-json": "^0.0.2",
+    "is-node": "^0.0.0",
+    "shortness": "^0.0.2",
+    "mongoose": "^3.8.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Resudek <toddresudek@gmail.com>",
+  "license": "MIT"
+}
