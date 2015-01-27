@@ -11,6 +11,9 @@
     "shortness": "^0.0.2",
     "mongoose": "^3.8.21"
   },
+  "engines":{
+    "node": "0.10.x"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
